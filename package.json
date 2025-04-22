@@ -1,0 +1,16 @@
+{
+  "name": "foo-actions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "typescript": "^5.8.3",
+    "vitest": "^3.1.2"
+  }
+}
